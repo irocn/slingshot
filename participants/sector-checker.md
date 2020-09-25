@@ -11,7 +11,7 @@ Before submitting a PR containing your team's project information:
 ## (1) Brief Project Description
 This is a tools to ensure the sectors pass the window PoST. whith the following features
 - Check the sectors health status
-- Find the sanity faulty before window PoST
+- Find the sanity or faulty sectors before window PoST
 - Analysis the sector log to improve seal efficiency and find the potential problem
 
 ## (2) Link to Project UI
@@ -44,7 +44,7 @@ N/A
 lotus
 
 ## (10) How will you retrieve the data?
-local data
+local data and miner api
 
 ## (11) Who is the intended user for your application/UI?
 
