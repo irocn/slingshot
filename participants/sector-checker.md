@@ -34,7 +34,7 @@ N/A
 N/A
 
 ## (7) How are you structuring the data?
-use json format to relate with minerid, sectorsid, health status etc. 
+Export json format data to report the checking result
 
 
 ## (8) What pre-processing are you doing before ingesting the data?
@@ -53,7 +53,7 @@ All miner
 
 ## (12) Do you have any users already or plans to acquire users soon?
 
-Many miner will be the users.
+Had some miner users.
 
 ## (13) What challenges do you anticipate with this project?
 No
