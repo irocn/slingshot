@@ -16,7 +16,7 @@ This is a tools to ensure the sectors pass the window PoST. whith the following 
 
 ## (2) Link to Project UI
 
-https://github.com/irocn/sector-sanity-checker, maybe it will rename https://github.com/irocn/sector-checker
+https://github.com/irocn/sector-checker
 
 ## (3) What does your application/UI do?
 We will provide cli to users.
