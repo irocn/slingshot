@@ -11,7 +11,6 @@ Before submitting a PR containing your team's project information:
 ## (1) Brief Project Description
 This is a tools to ensure the sectors pass the window PoST. whith the following features
 - Check the sectors health status
-- Repaire the sectors if it is bad
 - Find the sanity faulty before window PoST
 - Analysis the sector log to improve seal efficiency and find the potential problem
 
