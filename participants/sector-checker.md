@@ -7,18 +7,28 @@ Before submitting a PR containing your team's project information:
 ## (0) Project Name and Team Slack Handles
 
 *Please tell us your project's name and the Filecoin Slack handles for your teammates.*
+- project's name : sectors_checker
+- slack handles: @HASH BLOCK
 
 ## (1) Brief Project Description
 
 *Add your project's description here.*
+*This is a tools to ensure the sectors pass the window PoST. whith the following features*
+- Check the sectors health status
+- repaire the sectors if it is bad
+- Find the sanity faulty before window PoST
+- Analysis the sector log to improve seal efficiency and find the potential problem
 
 ## (2) Link to Project UI
 
 *Please include a link to your project application or UI. It does not need to be super polished or completely functional. We will be reviewing this link periodically to verify that your project is eligible for final rewards.*
 
+https://github.com/irocn/sector-sanity-checker, maybe it will rename https://github.com/irocn/sector-checker
+
 ## (3) What does your application/UI do?
 
 *Give us a brief description of what your application/UI does and how users are intended to interact with it.*
+
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
