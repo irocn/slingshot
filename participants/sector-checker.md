@@ -30,7 +30,7 @@ The binary file itself will be stored. And the json log files
 1G or more, people could save the logs on the filecoin, the more the user, the more the logs
 
 ## (7) How are you structuring the data?
-Export json format data to report the checking result and the execute file itselef.
+Using json format files.
 
 ## (8) What pre-processing are you doing before ingesting the data?
 Using the API provided by you to upload the json files.
